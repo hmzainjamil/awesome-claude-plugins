@@ -21,6 +21,16 @@
       }
     },
     {
+      "name": "xquik",
+      "source": "./xquik",
+      "description": "Use Xquik's REST API, webhooks, and MCP server for X search, monitoring, exports, and automation",
+      "category": "integrations",
+      "tags": ["x", "social", "api", "mcp", "automation"],
+      "author": {
+        "name": "Xquik"
+      }
+    },
+    {
       "name": "frontend-design",
       "source": "./frontend-design",
       "description": "Create distinctive, production-grade interfaces avoiding generic AI aesthetics",

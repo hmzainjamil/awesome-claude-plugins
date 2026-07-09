@@ -12,6 +12,13 @@
       "tags": ["integrations", "oauth", "gmail", "slack", "github", "notion"]
     },
     {
+      "name": "xquik",
+      "category": "integrations",
+      "description": "Use Xquik's REST API, webhooks, and MCP server for X search, monitoring, exports, and automation",
+      "author": "Xquik",
+      "tags": ["x", "social", "api", "mcp", "automation"]
+    },
+    {
       "name": "frontend-design",
       "category": "frontend",
       "description": "Create distinctive, production-grade interfaces avoiding generic AI aesthetics",

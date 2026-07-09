@@ -1,0 +1,8 @@
+{
+  "name": "xquik",
+  "description": "Use Xquik's REST API, webhooks, and MCP server for X search, monitoring, exports, and automation.",
+  "author": {
+    "name": "Xquik",
+    "url": "https://xquik.com"
+  }
+}
