@@ -77,6 +77,7 @@ Each row maps a concept to a real file. Click `[Source]` to read the actual code
 | 8 | **Auto-suppression** | `audit-project/lib/enhance/auto-suppression.js` | Suppresses noisy false-positives in repeated audits · [Source](https://github.com/hmzainjamil/awesome-claude-plugins/blob/main/audit-project/lib/enhance/auto-suppression.js) |
 | 9 | **Benchmark harness** | `audit-project/lib/enhance/benchmark.js` | Time and token budget tracking per plugin run · [Source](https://github.com/hmzainjamil/awesome-claude-plugins/blob/main/audit-project/lib/enhance/benchmark.js) |
 | 10 | **Hook analyzer** | `audit-project/lib/enhance/hook-analyzer.js` | Validates `hooks.json` schema and execution graph · [Source](https://github.com/hmzainjamil/awesome-claude-plugins/blob/main/audit-project/lib/enhance/hook-analyzer.js) |
+| 11 | **Xquik plugin** | `xquik/.claude-plugin/plugin.json` | Adds source-backed X data workflows through Xquik's REST API, webhooks, and MCP server · [Source](https://github.com/hmzainjamil/awesome-claude-plugins/blob/main/xquik/.claude-plugin/plugin.json) |
 
 ### 🔥 Hot
 
