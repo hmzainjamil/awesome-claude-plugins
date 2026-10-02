@@ -4,6 +4,8 @@ A Claude Code plugin marketplace manifest maintained in this repository. The man
 
 ## Browse and install
 
+See the [documentation index](docs/README.md) for nested module README files.
+
 - [Marketplace manifest](.claude-plugin/marketplace.json): source paths and descriptions for listed plugins.
 - [Legacy catalog](marketplace.json): category, description, author, and tags.
 - [connect-apps manifest](connect-apps/.claude-plugin/plugin.json): plugin-specific metadata.
